@@ -25,7 +25,7 @@ I’m currently building projects around credit risk analysis, Healthcare case s
 
 I believe growth happens one project, one challenge, and one lesson at a time, and this GitHub is a reflection of that journey.
 
-When I'm not working with data, I enjoy e.g., cooking, and reading ot]. I love the "Special!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy e.g., cooking, and reading ]. I love the "Special!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://MjDAnalyst.github.io/)
@@ -38,9 +38,8 @@ When I'm not working with data, I enjoy e.g., cooking, and reading ot]. I love t
   
 
 ## 🌱 Currently Learning 
-
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.SMOTE, ]
-- [Another skill, e.g., Advanced SQL and DAX.]
+- [Advanced machine learning techniques in Scikit-learn.SMOTE, ]
+- [e.g., Advanced SQL and DAX.]
 
 ## 🛠️ Technical Skillset
 
@@ -58,12 +57,11 @@ When I'm not working with data, I enjoy e.g., cooking, and reading ot]. I love t
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=red" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Expert-276DC3?style=flat&logo=r&logoColor=green" alt="R Skill Badge">
+style=flat&logo=r&logoColor=green" alt="R Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Intermediate-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
+<img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
 
