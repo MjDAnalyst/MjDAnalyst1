@@ -26,7 +26,7 @@ I believe growth happens one project, one challenge, and one lesson at a time, a
 When I'm not working with data, I enjoy e.g., cooking, and reading ]. I love the "Special!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://MjDAnalyst.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://mjdanalyst.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
