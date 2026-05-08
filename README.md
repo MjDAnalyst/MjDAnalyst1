@@ -7,10 +7,8 @@
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/
+<p align="center"><a href="https://www.linkedin.com/in/
 fadeyi-mujidat"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
- 
   <a href="mujidat.fadeyi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -34,7 +32,7 @@ When I'm not working with data, I enjoy e.g., cooking, and reading ]. I love the
 
 - **Project A:** [Credit Risk Scoring for Underbanked Populations.]  
 - **Project B:** [Customer Segmentation for Strategic Growth & Decision Support using Python]
-  - **Project C :** [Heart Disease Prediction Using Machine Learning]
+- **Project C :** [Heart Disease Prediction Using Machine Learning]
   
 
 ## 🌱 Currently Learning 
